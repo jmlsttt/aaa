@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+C:\Users\user\source\repos\EducationalPractice\MyForm.h(307,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\user\source\repos\EducationalPractice\MyForm.h(420,21): warning C4101: e: неиспользованная локальная переменная
+C:\Users\user\source\repos\EducationalPractice\MyForm.h(442,21): warning C4101: e: неиспользованная локальная переменная
+  DLL.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+     Создается библиотека C:\Users\user\source\repos\EducationalPractice\x64\Debug\EduPractice.lib и объект C:\Users\user\source\repos\EducationalPractice\x64\Debug\EduPractice.exp
+  EduPractice.vcxproj -> C:\Users\user\source\repos\EducationalPractice\x64\Debug\EduPractice.exe
